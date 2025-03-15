@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 1146014573943710240}
   - component: {fileID: 4004823768053803775}
   m_Layer: 0
-  m_Name: Calisson couche 1
+  m_Name: CalissonLayer2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
