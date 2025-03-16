@@ -9,6 +9,99 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
-    path: Assets/Scenes/Leandre.unity
-    guid: e6942213cb7247c4798e0fdb870e7ec3
+    path: Assets/Scenes/Combat/Scene1.unity
+    guid: 95166d9fc1b86a44287679b697fa941d
+  - enabled: 1
+    path: Assets/Scenes/Combat/Scene2.unity
+    guid: 8301053facd73e24db6a46dcb802010a
+  - enabled: 1
+    path: Assets/Scenes/Combat/Scene3.unity
+    guid: f63cd8bdd8734784d8f5b627b4c8c754
+  - enabled: 1
+    path: Assets/Scenes/Combat/Scene4.unity
+    guid: 1b2f5a3b21380b7479c4a4fbeed6377a
+  - enabled: 1
+    path: Assets/Scenes/Combat/Scene6.unity
+    guid: 2dc27cdda938b86479073fb360463e46
+  - enabled: 1
+    path: Assets/Scenes/Combat/Scene7.unity
+    guid: 3005ce817c41cd348bd74f7a70ad852c
+  - enabled: 1
+    path: Assets/Scenes/Combat/Scene8.unity
+    guid: a772685a5ba826446913bfc0e08cf4e6
+  - enabled: 1
+    path: Assets/Scenes/Combat/Scene9.unity
+    guid: fca8a4cbe4be38249896fa44ac7a3f2c
+  - enabled: 1
+    path: Assets/Scenes/Combat/Scene10.unity
+    guid: 29d02d48a1679e04a9cbbb6c4acc0e54
+  - enabled: 1
+    path: Assets/Scenes/Combat/Scene11.unity
+    guid: 53002bade3aaa9344993f791465fb54c
+  - enabled: 1
+    path: Assets/Scenes/Combat/Scene12.unity
+    guid: f7b16340b24142f4f8e501aca1799899
+  - enabled: 1
+    path: Assets/Scenes/Combat/Scene13.unity
+    guid: 92e5db0ce5c03f647bab91f385079fe1
+  - enabled: 1
+    path: Assets/Scenes/Combat/Scene14.unity
+    guid: 96083570db47af0498a2ecf425924482
+  - enabled: 1
+    path: Assets/Scenes/Combat/Scene15.unity
+    guid: 8767fb824d7843d48b6f69acf01210db
+  - enabled: 1
+    path: Assets/Scenes/Combat/Scene16.unity
+    guid: c4445929c64e9de469ab3f5ae173c85f
+  - enabled: 1
+    path: Assets/Scenes/Combat/Scene17.unity
+    guid: 7f59aa7839b374446943e4e7e0930df4
+  - enabled: 1
+    path: Assets/Scenes/Combat/Scene18.unity
+    guid: b316e9dba9f14384f85adb1c025b97ff
+  - enabled: 1
+    path: Assets/Scenes/Combat/Scene19.unity
+    guid: 18a406c0f3a64974d82e7b584edfcb05
+  - enabled: 1
+    path: Assets/Scenes/Combat/Scene20.unity
+    guid: 19c3c0d88538f854eb720367f7a4753e
+  - enabled: 1
+    path: Assets/Scenes/Combat/Scene21.unity
+    guid: 0ccea54487b054749a7f29b514dd119a
+  - enabled: 1
+    path: Assets/Scenes/Combat/Scene22.unity
+    guid: c8723feb74d019c4a901d932cbe3b2c9
+  - enabled: 1
+    path: Assets/Scenes/Combat/Scene23.unity
+    guid: c3526cee37325a14c8905252e78488ef
+  - enabled: 1
+    path: Assets/Scenes/Exploration/Scene24.unity
+    guid: b9f07a240d6dc664b9de66d57f599a96
+  - enabled: 1
+    path: Assets/Scenes/Exploration/Scene25.unity
+    guid: 015739067be14cb4d996755aca27a40c
+  - enabled: 1
+    path: Assets/Scenes/Exploration/Scene26.unity
+    guid: 8048fbd4d9e092641a506e95a6e8b3df
+  - enabled: 1
+    path: Assets/Scenes/Exploration/Scene27.unity
+    guid: e3b501a689e44764b943b7f0489bb0f1
+  - enabled: 1
+    path: Assets/Scenes/Exploration/Scene28.unity
+    guid: 354ed52c8b5da6e45883acf61a2eb855
+  - enabled: 1
+    path: Assets/Scenes/Exploration/Scene29.unity
+    guid: bae200d44f7e1324ba2ce9c3f34636fe
+  - enabled: 1
+    path: Assets/Scenes/Exploration/Scene30.unity
+    guid: 95dcc84f0188aa141835af2f22a58eb7
+  - enabled: 1
+    path: Assets/Scenes/Exploration/Scene31.unity
+    guid: d8af6297c709a324fb5e3a3f47abdf8e
+  - enabled: 1
+    path: Assets/Scenes/Exploration/Scene32.unity
+    guid: 7a55ea8dd547a94439a411ad1a32b2b7
+  - enabled: 1
+    path: Assets/Scenes/Exploration/Scene33.unity
+    guid: ca075e1690e04b744aa01549dd8c5cb6
   m_configObjects: {}
