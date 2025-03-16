@@ -1,48 +1,34 @@
 using UnityEngine;
-using UnityEngine.Rendering.PostProcessing;
+using UnityEngine.Rendering;
+using UnityEngine.Rendering.Universal;
 
 public class FlouCameraExploration : MonoBehaviour
 {
-    public PostProcessVolume postProcessVolume;
-    private Vignette vignette;
+    public Volume volume; // Référence au Volume contenant l'effet de flou
     private DepthOfField depthOfField;
 
-    void Start()
+    [Range(0f, 10f)] public float blurIntensity = 2f; // Intensité du flou
+
+    private void Start()
     {
-        if (postProcessVolume == null)
+        // Vérifie si le volume contient un effet Depth Of Field
+        if (volume && volume.profile.TryGet(out depthOfField))
         {
-            Debug.LogError("PostProcessVolume n'est pas assigné !");
-            return;
+            depthOfField.active = true; // Activer l'effet dès le début
+            depthOfField.gaussianStart.value = 0.5f;
+            depthOfField.gaussianEnd.value = 5f;
+            depthOfField.gaussianMaxRadius.value = blurIntensity;
         }
-
-        // Vérifier que le profile est bien défini
-        if (postProcessVolume.profile == null)
-        {
-            Debug.LogError("Le PostProcessVolume n'a pas de profil assigné !");
-            return;
-        }
-
-        // Récupérer les effets de vignettage et de flou de profondeur
-        postProcessVolume.profile.TryGetSettings(out vignette);
-        postProcessVolume.profile.TryGetSettings(out depthOfField);
-
-        if (vignette == null) Debug.LogError("Effet Vignette non trouvé !");
-        if (depthOfField == null) Debug.LogError("Effet Depth of Field non trouvé !");
     }
 
-    void Update()
+    private void Update()
     {
-        if (vignette != null)
+        if (Input.GetKeyDown(KeyCode.B)) // Touche B pour activer/désactiver
         {
-            vignette.enabled.value = true;
-            vignette.intensity.value = Mathf.Lerp(0.3f, 0.6f, Mathf.PingPong(Time.time * 0.5f, 1));
-        }
-
-        if (depthOfField != null)
-        {
-            depthOfField.enabled.value = true;
-            depthOfField.focusDistance.value = Mathf.Lerp(3f, 5f, Mathf.PingPong(Time.time * 0.5f, 1));
-            depthOfField.aperture.value = 2.8f;
+            if (depthOfField != null)
+            {
+                depthOfField.active = !depthOfField.active;
+            }
         }
     }
 }
