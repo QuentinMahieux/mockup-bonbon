@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 167213502998798513}
   - component: {fileID: 3930353575364320525}
   m_Layer: 0
-  m_Name: RoomDistance2N(2)
+  m_Name: RoomDistance2N(3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27,7 +27,7 @@ Transform:
   m_GameObject: {fileID: 3004365293336149100}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.27, y: 0.44, z: 0}
+  m_LocalPosition: {x: 0.006, y: 0.154, z: 0}
   m_LocalScale: {x: 0.93191445, y: 0.8875428, z: 0.77544606}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -74,7 +74,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: b637a5876cf70b8409029719beeafeee, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 834ec3a416052b04bad0ca424df7ec33, type: 3}
   m_Color: {r: 0.7735849, g: 0.7735849, b: 0.7735849, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -111,7 +111,7 @@ GameObject:
   - component: {fileID: 521028733483353314}
   - component: {fileID: 3410655978510730262}
   m_Layer: 0
-  m_Name: RoomDistance2N1(3)
+  m_Name: RoomDistance2N1(1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -126,7 +126,7 @@ Transform:
   m_GameObject: {fileID: 3456707574722575775}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.07, y: 0.23, z: 0}
+  m_LocalPosition: {x: -0.018, y: 0.215, z: 0}
   m_LocalScale: {x: 0.93191445, y: 0.8875428, z: 0.77544606}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -173,7 +173,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: b637a5876cf70b8409029719beeafeee, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 834ec3a416052b04bad0ca424df7ec33, type: 3}
   m_Color: {r: 0.7735849, g: 0.7735849, b: 0.7735849, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -224,8 +224,8 @@ Transform:
   m_GameObject: {fileID: 5109556720548141702}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.144, y: 1.287, z: 0}
-  m_LocalScale: {x: 0.20242935, y: 0.21254961, z: 0.24327527}
+  m_LocalPosition: {x: 1.6161, y: 1.3302, z: 0}
+  m_LocalScale: {x: 0.49994498, y: 0.52493924, z: 0.6008233}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2796852236980541113}
@@ -274,7 +274,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 10
-  m_Sprite: {fileID: 21300000, guid: b637a5876cf70b8409029719beeafeee, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 834ec3a416052b04bad0ca424df7ec33, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -297,7 +297,7 @@ GameObject:
   - component: {fileID: 6730519196910883800}
   - component: {fileID: 1798550412914847531}
   m_Layer: 0
-  m_Name: RoomDistance2N1(4)
+  m_Name: RoomDistance2N1(2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -312,7 +312,7 @@ Transform:
   m_GameObject: {fileID: 6066488807507928622}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.49, z: 0}
+  m_LocalPosition: {x: 0.024, y: 0.299, z: 0}
   m_LocalScale: {x: 0.9319144, y: 0.88754284, z: 0.77544606}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -359,7 +359,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: b637a5876cf70b8409029719beeafeee, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 834ec3a416052b04bad0ca424df7ec33, type: 3}
   m_Color: {r: 0.7735849, g: 0.7735849, b: 0.7735849, a: 1}
   m_FlipX: 0
   m_FlipY: 0
