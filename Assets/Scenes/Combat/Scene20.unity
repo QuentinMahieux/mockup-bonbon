@@ -269,6 +269,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: DurabiltyBarreMarshmellowFour
       objectReference: {fileID: 0}
+    - target: {fileID: 2444615066513111183, guid: d08840ca2f8312a4fa360efa2578905e, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3061779337238888445, guid: d08840ca2f8312a4fa360efa2578905e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -1.0907396
@@ -675,7 +679,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8241015790200999956, guid: b0edf77479fc1bf4fbee864586dcb836, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1062,7 +1066,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2681508513584798874, guid: ba0312e3d10d566448a0ae671ca27f7d, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3465518363911846453, guid: ba0312e3d10d566448a0ae671ca27f7d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1107,6 +1111,10 @@ PrefabInstance:
     - target: {fileID: 6027544064747251974, guid: ba0312e3d10d566448a0ae671ca27f7d, type: 3}
       propertyPath: m_SortingOrder
       value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7572213843924909340, guid: ba0312e3d10d566448a0ae671ca27f7d, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1234,6 +1242,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: DurabiltyBarreSucette
       objectReference: {fileID: 0}
+    - target: {fileID: 2444615066513111183, guid: d08840ca2f8312a4fa360efa2578905e, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3061779337238888445, guid: d08840ca2f8312a4fa360efa2578905e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.8639966
@@ -1288,6 +1300,63 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 3061779337238888445, guid: d08840ca2f8312a4fa360efa2578905e, type: 3}
   m_PrefabInstance: {fileID: 641134407}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &651004289
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3540681656801448094, guid: e03a5f4d5efb6d049a09a3689c9b1ec2, type: 3}
+      propertyPath: m_Name
+      value: Ombre boss
+      objectReference: {fileID: 0}
+    - target: {fileID: 8891835851572602317, guid: e03a5f4d5efb6d049a09a3689c9b1ec2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.13998
+      objectReference: {fileID: 0}
+    - target: {fileID: 8891835851572602317, guid: e03a5f4d5efb6d049a09a3689c9b1ec2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.8186774
+      objectReference: {fileID: 0}
+    - target: {fileID: 8891835851572602317, guid: e03a5f4d5efb6d049a09a3689c9b1ec2, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8891835851572602317, guid: e03a5f4d5efb6d049a09a3689c9b1ec2, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8891835851572602317, guid: e03a5f4d5efb6d049a09a3689c9b1ec2, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8891835851572602317, guid: e03a5f4d5efb6d049a09a3689c9b1ec2, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8891835851572602317, guid: e03a5f4d5efb6d049a09a3689c9b1ec2, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8891835851572602317, guid: e03a5f4d5efb6d049a09a3689c9b1ec2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8891835851572602317, guid: e03a5f4d5efb6d049a09a3689c9b1ec2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8891835851572602317, guid: e03a5f4d5efb6d049a09a3689c9b1ec2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e03a5f4d5efb6d049a09a3689c9b1ec2, type: 3}
 --- !u!1001 &692413611
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1435,6 +1504,10 @@ PrefabInstance:
     - target: {fileID: 2444615066513111183, guid: d08840ca2f8312a4fa360efa2578905e, type: 3}
       propertyPath: m_Name
       value: DurabiltyBarreMarshmelloOne
+      objectReference: {fileID: 0}
+    - target: {fileID: 2444615066513111183, guid: d08840ca2f8312a4fa360efa2578905e, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3061779337238888445, guid: d08840ca2f8312a4fa360efa2578905e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1981,6 +2054,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: DurabiltyBarreCalisson
       objectReference: {fileID: 0}
+    - target: {fileID: 2444615066513111183, guid: d08840ca2f8312a4fa360efa2578905e, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2655190683033085375, guid: d08840ca2f8312a4fa360efa2578905e, type: 3}
       propertyPath: m_IsActive
       value: 0
@@ -2043,7 +2120,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9175211572071735049, guid: d08840ca2f8312a4fa360efa2578905e, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2372,6 +2449,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: DurabiltyBarreMarshmellowThree
       objectReference: {fileID: 0}
+    - target: {fileID: 2444615066513111183, guid: d08840ca2f8312a4fa360efa2578905e, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3061779337238888445, guid: d08840ca2f8312a4fa360efa2578905e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -3.1220827
@@ -2437,6 +2518,10 @@ PrefabInstance:
     - target: {fileID: 2444615066513111183, guid: d08840ca2f8312a4fa360efa2578905e, type: 3}
       propertyPath: m_Name
       value: DurabiltyBarreMarshmellowTwo
+      objectReference: {fileID: 0}
+    - target: {fileID: 2444615066513111183, guid: d08840ca2f8312a4fa360efa2578905e, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3061779337238888445, guid: d08840ca2f8312a4fa360efa2578905e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2586,7 +2671,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: -220, y: 86}
+  m_AnchoredPosition: {x: -219.3, y: 38.1}
   m_SizeDelta: {x: 277.16748, y: 152.04962}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1301711720
@@ -3597,7 +3682,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1386765092318787037, guid: 87b5c100f6c55e04da359af94a858aea, type: 3}
       propertyPath: m_SortingOrder
-      value: 4
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7358387777141876078, guid: 87b5c100f6c55e04da359af94a858aea, type: 3}
       propertyPath: m_Name
@@ -3890,3 +3975,4 @@ SceneRoots:
   - {fileID: 863992676}
   - {fileID: 581100712}
   - {fileID: 1064959799}
+  - {fileID: 651004289}
