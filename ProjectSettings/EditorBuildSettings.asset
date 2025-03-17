@@ -75,48 +75,54 @@ EditorBuildSettings:
     path: Assets/Scenes/Combat/Scene23.unity
     guid: c3526cee37325a14c8905252e78488ef
   - enabled: 1
-    path: Assets/Scenes/exploration/Scene24.unity
+    path: Assets/Scenes/Exploration/Scene24.unity
     guid: b9f07a240d6dc664b9de66d57f599a96
   - enabled: 1
-    path: Assets/Scenes/exploration/Scene25.unity
+    path: Assets/Scenes/Exploration/Scene25.unity
     guid: 015739067be14cb4d996755aca27a40c
   - enabled: 0
-    path: Assets/Scenes/exploration/Scene26.unity
+    path: Assets/Scenes/Exploration/Scene26.unity
     guid: 8048fbd4d9e092641a506e95a6e8b3df
   - enabled: 1
-    path: Assets/Scenes/exploration/Scene27.unity
+    path: Assets/Scenes/Exploration/Scene27.unity
     guid: e3b501a689e44764b943b7f0489bb0f1
   - enabled: 1
-    path: Assets/Scenes/exploration/Scene28.unity
+    path: Assets/Scenes/Exploration/Scene28.unity
     guid: 354ed52c8b5da6e45883acf61a2eb855
   - enabled: 1
-    path: Assets/Scenes/exploration/Scene29.unity
+    path: Assets/Scenes/Exploration/Scene29.unity
     guid: bae200d44f7e1324ba2ce9c3f34636fe
   - enabled: 1
-    path: Assets/Scenes/exploration/Scene30.unity
+    path: Assets/Scenes/Exploration/Scene30.unity
     guid: 95dcc84f0188aa141835af2f22a58eb7
   - enabled: 1
-    path: Assets/Scenes/exploration/Scene31.unity
+    path: Assets/Scenes/Exploration/Scene31.unity
     guid: d8af6297c709a324fb5e3a3f47abdf8e
   - enabled: 1
-    path: Assets/Scenes/exploration/Scene32.unity
+    path: Assets/Scenes/Exploration/Scene32.unity
     guid: 7a55ea8dd547a94439a411ad1a32b2b7
   - enabled: 1
-    path: Assets/Scenes/exploration/Scene33.unity
+    path: Assets/Scenes/Exploration/Scene33.unity
     guid: ca075e1690e04b744aa01549dd8c5cb6
   - enabled: 1
     path: Assets/Scenes/Combat/Scene35.unity
     guid: 6cc3dfb5c542ba24bae376551a803238
   - enabled: 1
-    path: Assets/Scenes/exploration/Scene30-1.unity
+    path: Assets/Scenes/Exploration/Scene30-1.unity
     guid: 13a450cc619c36c46b50ca3113d26c3a
   - enabled: 1
-    path: Assets/Scenes/exploration/Scene33-1.unity
+    path: Assets/Scenes/Exploration/Scene33-1.unity
     guid: 85453dc3a74e6b24f83952ed2d9015e5
   - enabled: 1
-    path: Assets/Scenes/exploration/Scene32-1.unity
+    path: Assets/Scenes/Exploration/Scene32-1.unity
     guid: 14051d248ccb6de4cb0919090f9a0064
   - enabled: 1
-    path: Assets/Scenes/exploration/Scene31-1.unity
+    path: Assets/Scenes/Exploration/Scene31-1.unity
     guid: 2b1b864b01b55044ca75c50a3156aff0
+  - enabled: 1
+    path: Assets/Scenes/Exploration/Scene24-1.unity
+    guid: 39e89523cdde04e4fbdfc694378f683e
+  - enabled: 1
+    path: Assets/Scenes/Exploration/Scene28-1.unity
+    guid: 8633b7c027044fb4ba66ba0b66b86ba3
   m_configObjects: {}
