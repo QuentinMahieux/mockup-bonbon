@@ -119,4 +119,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/exploration/Scene31-1.unity
     guid: 2b1b864b01b55044ca75c50a3156aff0
+  - enabled: 1
+    path: Assets/Scenes/Combat/Scene3Bis.unity
+    guid: 96b3863100c2e364b83440678d6f3ca3
+  - enabled: 1
+    path: Assets/Scenes/Combat/Scene7Bis.unity
+    guid: 546d3b38407790d46962c22e6623a202
   m_configObjects: {}
