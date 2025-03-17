@@ -80,7 +80,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/exploration/Scene25.unity
     guid: 015739067be14cb4d996755aca27a40c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/exploration/Scene26.unity
     guid: 8048fbd4d9e092641a506e95a6e8b3df
   - enabled: 1
@@ -107,4 +107,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Combat/Scene35.unity
     guid: 6cc3dfb5c542ba24bae376551a803238
+  - enabled: 1
+    path: Assets/Scenes/exploration/Scene30-1.unity
+    guid: 13a450cc619c36c46b50ca3113d26c3a
+  - enabled: 1
+    path: Assets/Scenes/exploration/Scene33-1.unity
+    guid: 85453dc3a74e6b24f83952ed2d9015e5
+  - enabled: 1
+    path: Assets/Scenes/exploration/Scene32-1.unity
+    guid: 14051d248ccb6de4cb0919090f9a0064
+  - enabled: 1
+    path: Assets/Scenes/exploration/Scene31-1.unity
+    guid: 2b1b864b01b55044ca75c50a3156aff0
   m_configObjects: {}
